@@ -7,7 +7,7 @@ body {
     font-size: 22px;
     background-color: #F1DCA7;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0px auto;
 }
 
 .project-title,
@@ -34,5 +34,31 @@ body {
     height: 460px;
     width: auto;
     display: block;
-    margin: 0 auto;
+    margin: 0px auto;
+}
+
+.links-container {
+    text-align: center;
+    padding: 0px;
+    list-style: none;
+}
+
+.links-list {
+    display: inline-block;
+    margin: 0px 40px;
+}
+
+.link {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 36px;
+    font-weight: bold;
+    background-color: rgb(71, 1, 71);
+    color: rgb(62, 255, 110);
+    padding: 12px;
+    text-decoration: none; /* remove underline from links */
+}
+
+.link:hover {
+    color: white;
+    background-color: rgb(100, 0, 100);
 }
