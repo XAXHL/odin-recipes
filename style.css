@@ -29,6 +29,7 @@ body {
     font-size: 48px;
 }
 
+.project-avatar,
 .image {
     height: 460px;
     width: auto;
