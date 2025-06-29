@@ -8,6 +8,8 @@ This project is aimed at building a website that contains a few recipes. Once I 
 
 ![Current Version Screenshot](./images/project-screenshots/screenshot-iter-2-home.png)
 
+---
+
 ## Project Evolution
 
 ### Iteration 1
