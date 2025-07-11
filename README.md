@@ -4,7 +4,7 @@
 This project is aimed at building a website that contains a few recipes. Once I have completed it, I could solidify basic HTML and CSS skills.
 
 ## Live Demo
-[Live Site](https://xaxhl.github.io/odin-recipes/)
+[Live Site](https://lamwahhinharold.github.io/odin-recipes/)
 
 ![Current Version Screenshot](./images/project-screenshots/screenshot-iter-2-home.png)
 
